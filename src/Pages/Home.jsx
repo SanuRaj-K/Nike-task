@@ -16,7 +16,7 @@ function Home() {
         <div className="w-1/3 bg-red-500"></div>
         <div className="w-2/3 bg-white"></div>
       </div>
-      <div className="absolute top-[310px]  left-1/2 transform -translate-x-1/2 -translate-y-1/2 shadow-2xl w-[90%] z-10">
+      <div className="absolute top-[350px]  left-1/2 transform -translate-x-1/2 -translate-y-1/2 shadow-2xl w-[90%] z-10">
         <header className="w-full px-[50px] ">
           <nav className="flex w-full justify-between items-center p-4">
             <div className="w-1/3">
